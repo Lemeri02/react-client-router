@@ -41,3 +41,6 @@ NODE_ENV='development' yarn start
 ---
 
 Помните, что для работы с девелоперским сервером мы пишем `yarn run build`.
+
+
+<script src="./dist/main.js"></script>
